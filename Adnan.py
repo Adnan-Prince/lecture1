@@ -1,0 +1,1 @@
+print("Alhumdulillah My life line is always with me")
